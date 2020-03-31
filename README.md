@@ -1,2 +1,2 @@
 # R-Projects
-Projects using R
+This repository includes projects and scripts written in R.
